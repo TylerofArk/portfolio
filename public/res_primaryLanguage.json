@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm  Tyler Main. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Code Fellows. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description": "Hello, I'm Tyler Main, and I'm a full-stack JavaScript developer. I'm also a Marine Corps veteran and a first-generation college graduate. I've always loved leveraging technology for creativity and solving problems. I thrive in fast-paced environments where adapting to an ever-changing digital world is a priority and I love being part of a team just as much as taking the lead. My background is a valuable asset to any team that values good taste in visual design elements and strong oral presentation, writing, and copy-editing skills. I encourage you to check out my portfolio to see what I've been up to. Let's build something great together!",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -11,9 +11,9 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "FitDog",
+        "startDate": "2022",
+        "description": "The final project for my Code Fellows 201 class. FitDog is an application that uses equations from studies Ohio State University to determine the exact amount of dogfood your dog should have",
         "images": [
           "images/portfolio/animal-shelter/p1.jpg",
           "images/portfolio/animal-shelter/p2.jpg"
@@ -22,22 +22,22 @@
         "technologies": [
           {
             "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "name": "React"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "",
+            "name": ""
           }
         ]
       },
       {
         "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "startDate": "2022",
+        "description": "Personal project for my outdoor sports photography page. Prior to software development I was a photojournalist in the Marine Corps and still take photos on the side",
         "images": [
           "images/portfolio/photography/p1.jpg",
           "images/portfolio/photography/p2.jpg"
@@ -55,9 +55,9 @@
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "301 Final Project",
+        "startDate": "2022",
+        "description": "Placeholder for my 301 final project",
         "images": [
           "images/portfolio/adventure/p1.jpg",
           "images/portfolio/adventure/p2.jpg"
@@ -66,52 +66,53 @@
         "technologies": [
           {
             "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "name": "React"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "",
+            "name": ""
           }
         ]
       }
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "Tyler Main Studios",
+        "title": "Owner",
+        "years": "01.2020 - present",
         "mainTech": [
-          "Angular 8/9/10"
+          ""
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "Photoshop",
+          "Lightroom",
+          "Premier Pro",
+          "After Effects",
+					"Sony"
+
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "Department of Defense",
+        "title": "Producer",
+        "years": "01.2019 - 06.2020",
         "mainTech": [
-          "Angular 7/8"
+          ""
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+					"Photoshop",
+          "Lightroom",
+          "Premier Pro",
+          "After Effects",
+					"Sony",
+					"Nikon",
+          "Canon",
+          "Panasonic"
+
         ]
       }
     ]
